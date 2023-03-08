@@ -1,3 +1,4 @@
+![logo](https://github.com/imraja594/imraja594/blob/main/raja-mondal-banner.gif)
 <h1 align="center">Hi 👋, I'm Raja Mondal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="400" alt="raja mondal coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
